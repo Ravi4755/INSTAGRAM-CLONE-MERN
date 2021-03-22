@@ -8,8 +8,7 @@ Instagram clone tech-stack
   <li>React</li>
 </ul>
 
-<b>Demo-link</b>
-https://youtu.be/4rCbSo70jco
+
 
 To run this project
 <ul>
