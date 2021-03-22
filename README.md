@@ -1,99 +1,70 @@
-# INSTAGRAM-CLONE-MERN
+# Getting Started with Create React App
 
-Instagram clone tech-stack
-<ul>
-  <li>Node</li>
-  <li>Express</li>
-   <li>Mongo</li>
-  <li>React</li>
-</ul>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
+In the project directory, you can run:
 
-To run this project
-<ul>
-  <li>cd server->npm install</li>
-  <li>cd web->npm install</li>
-  <li>API KEYS in cdserver->Keys</li>
-</ul>
+### `yarn start`
 
-This application got 
-1) Infinite scrolling
-2) Request accept/decline
-3) Follow/unfollow
-4) Auth with jwt
-5) Like,Comment
-6) Track of request
-7) Search
-<h1>Screenshots</h1>
-<br>
-<h2>Sign-in</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/sign-in.png" width="400px"</img> 
-</div>
-<br>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<h2>sign-up</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/sign-up.png" width="400px"</img> 
-</div>
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-<br>
-<h2>feed</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/feed.png" width="400px"</img> 
-</div>
+### `yarn test`
 
-<br>
-<h2>Post-modal</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/post-modal.png" width="400px"</img> 
-</div>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<br>
-<h2>Profile</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/profile.png" width="400px"</img> 
-</div>
+### `yarn build`
 
-<br>
-<h2>Create post/folllowing</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/create-post.png" width="400px"</img> 
-</div>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<br>
-<h2>search-modal</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/search-modal.png" width="400px"</img> 
-</div>
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<br>
-<h2>follow-request</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/follow-request.png" width="400px"</img> 
-</div>
+### `yarn eject`
 
-<br>
-<h2>followers/folllowing</h2>
-<br>
-<div align="center">
-    <img src="/Screenshots/followers.png" width="400px"</img> 
-</div>
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-you can check the application here:
-https://instagramclone8989.herokuapp.com/login
-//Issue with timeout from heroku side 
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-<br>
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
